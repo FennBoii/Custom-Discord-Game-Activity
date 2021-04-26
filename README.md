@@ -10,5 +10,5 @@
 - <strong>Ways you can use this respiratory</strong>
 
   > You can use this for any kind of activity you want to display but since it is
-    a python scrip, it might be hard to allow this script to update with other sites and
+    a python script, it might be hard to allow this script to update with other sites and
     apps.
