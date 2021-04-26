@@ -6,7 +6,7 @@
      adding in your own packages.
      
   > This respiratory has a template already made for you and every since making this
-     respiratory, I have updated it to have a build in colsole timer if you don't want to look directly at discord for your stats.
+     respiratory, I have updated it to have a build in console stopwatch if you don't want to look at 'Time Elapsed' directly on your discord stats.
 - <strong>Ways you can use this respiratory</strong>
 
   > You can use this for any kind of activity you want to display but since it is
