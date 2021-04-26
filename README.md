@@ -4,6 +4,7 @@
 
   > This respiratory has an already set up rpc.py and makes it easy to use without
      adding in your own packages.
+     
   > This respiratory has a template already made for you and every since making this
      respiratory, I have updated it to have a build in colsole timer if you don't want to look directly at discord for your stats.
 - <strong>Ways you can use this respiratory</strong>
